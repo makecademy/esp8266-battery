@@ -4,4 +4,4 @@ This is the code for the *How to Run Your ESP8266 for Years on a Battery* articl
 
 You can find the article on our website:
 
-[https://www.openhomeautomation.net/esp8266-battery/](https://www.openhomeautomation.net/esp8266-battery/)
+[https://makecademy.com/esp8266-battery](https://makecademy.com/esp8266-battery)
